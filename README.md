@@ -11,7 +11,7 @@ Host your own music streaming bot that stays in a channel forever and streams mu
 
 ## To run the usual version, click the button below:
 
-[![Run on Repl.it](https://repl.it/badge/github/navaneethkm004/Discord-24x7-Radio-Bot)](https://repl.it/github/navaneethkm004/Discord-24x7-Radio-Bot)
+[![Run on Repl.it](https://repl.it/badge/github/navaneethkm004/Discord-24x7-Radio-Bot)](https://repl.it/github/officialbawwa/Discord-24x7-Radio-Bot)
 
 ## To run the modified version on repl.it, follow the steps:
 
